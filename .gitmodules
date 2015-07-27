@@ -1,0 +1,3 @@
+[submodule "go-learning-simple-server"]
+	path = go-learning-simple-server
+	url = git@github.com:manusajith/go-learning-simple-server.git
