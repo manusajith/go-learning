@@ -1,3 +1,6 @@
 [submodule "go-learning-simple-server"]
 	path = go-learning-simple-server
 	url = git@github.com:manusajith/go-learning-simple-server.git
+[submodule "heroku-go-sample-app"]
+	path = heroku-go-sample-app
+	url = git@github.com:manusajith/heroku-go-sample-app.git
