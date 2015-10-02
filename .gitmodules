@@ -4,3 +4,6 @@
 [submodule "heroku-go-sample-app"]
 	path = heroku-go-sample-app
 	url = git@github.com:manusajith/heroku-go-sample-app.git
+[submodule "markdown_to_html_converter"]
+	path = markdown_to_html_converter
+	url = git@github.com:manusajith/markdown_to_html_converter.git
